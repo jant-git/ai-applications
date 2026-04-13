@@ -1,3 +1,13 @@
 disposition.md
 week1/data_with_large_residuals.csv
 .claude/
+
+# macOS
+.DS_Store
+
+# Model weights, checkpoints, and datasets
+block2_exercise/sports-vit/model.safetensors
+block2_exercise/sports-vit/checkpoint-*/
+block2_exercise/sports-vit/runs/
+block2_exercise/runs/
+block2_exercise/data/
